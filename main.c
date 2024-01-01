@@ -28,7 +28,7 @@ void razvrstaj_parne(int niz[], int broj) {
             scanf("%d", &niz[i]);
         }
     }
-
+//komentar
 
 int main() {
     int niz[50];
