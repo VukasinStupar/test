@@ -12,7 +12,7 @@ void razvrstaj_parne(int niz[], int broj) {
         while(niz[j] % 2 != 0 && i < j){
             j--;
         }
-        //ovo je moj novi komentar
+
 
         //niz= {1,2,3,4,5,6,7,8,9,10}
         if(i < j){
